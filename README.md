@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pieterjansen8
 - 👀 I’m interested in programming and computers  
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning nuxt.js / react
 - 📫 How to reach me send me a message pieterjansen8@icloud.com
 - ⚡ Fun fact: im playing football / soccer
